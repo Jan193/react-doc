@@ -1,0 +1,11 @@
+
+/* menu */
+.menu {
+    width: 200px;
+    float: left;
+    background-color: #315459;
+    color: #fff;
+}
+.menu-list-item p {
+    padding: 5px;
+}
